@@ -11,12 +11,12 @@ lovelymahor/lovelymahor is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @lovelymahor<br>
+- 😄 Pronouns: Her<br>
 - 👀 I’m interested in web develpoment<br>
 - 🌱 I’m currently learning Nodejs<br>
 - 💞️ I’m looking to collaborate on Google summer<br>
 - 📫 How to reach me: [Email](lovelymahour1405@gmail.com) or visit  [LinkedIn](https://www.linkedin.com/in/lovely-mahour-992316265/)<br>
-- 😄 Pronouns: Her<br>
-- ⚡ Fun fact: ...
+
 
 ## 👋🏻Hello there!  
 
