@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/lovely-mahour-992316265/">LinkedIn</a> - 
   <a href="https://x.com/MahourLove15309">Twitter</a> -
   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a></p>
+  <a href="">Contact me</a></p>
 <!---
 lovelymahor/lovelymahor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
