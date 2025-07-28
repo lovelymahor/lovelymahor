@@ -58,14 +58,6 @@ Let’s build something impactful together! 🚀
 
 ---
 
-## 🎉 Latest Achievement
-
-> 🥳 **Congratulations! You're Officially a Project Admin – GirlScript Summer of Code 2025!**  
->  
-> I am honored to take on this role, where I will oversee open-source project development, mentor coordination, contributor guidance, and overall quality assurance within the GSSoC community.
-
----
-
 ## 🏆 GSSoC 2024 Badges
 
 <div align='center'>
@@ -76,12 +68,6 @@ Let’s build something impactful together! 🚀
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
-
----
-
-## 📌 Featured In
-
-- 📰 [Google Crowdsource Community Spotlight](https://crowdsource.google.com/about/blog/community-spotlight-friendship/)
 
 ---
 
