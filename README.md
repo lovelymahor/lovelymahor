@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lovely-mahour-992316265/">LinkedIn</a> -
   <a href="https://x.com/MahourLove15309">Twitter</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
   <a href="mailto:lovelymahour1405@gmail.com">Contact Me</a>
 </p>
 
@@ -22,7 +21,7 @@
 
 ## 👋🏻 Hello there!
 
-I'm **Lovely Mahour**, a Pre-Final Year B.Sc. (Hons) Computer Science student at University of Delhi.  
+I'm **Lovely Mahour**, a Final Year B.Sc. (Hons) Computer Science student at University of Delhi.  
 As a creative tech enthusiast, I actively contribute to **Open Source** projects and build **web applications** that merge functionality with beautiful design.  
 Currently exploring the **DevOps** and **Cloud** landscape while mentoring developers and managing projects in national open-source programs like **GSSoC 2025**.  
 Let’s build something impactful together! 🚀
@@ -60,15 +59,15 @@ Let’s build something impactful together! 🚀
 
 ## 🏆 GSSoC 2024 Badges
 
-<div align='center'>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
 
+</div>
 ---
 
 ## 📬 Let's Connect
